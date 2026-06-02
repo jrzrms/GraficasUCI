@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Gráficas UCI-HSP",
+  "description": "Extrae constantes médicas (TAS, TAD, FC, Temperatura, Frecuencia Respiratoria y Diuresis) de fotos de gráficas de enfermería y las exporta a Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
